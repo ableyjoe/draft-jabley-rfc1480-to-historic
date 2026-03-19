@@ -55,7 +55,7 @@ this document reclassifies RFC 1480 as Historic.
 {{RFC1480}}, published in June 1993, described the original structure and related policies for the .US top-level
 domain, the country-code top-level domain assigned to the United States of America.
 
-While significant parts of {{RFC 1480}} continue to be relevant at the
+While significant parts of {{RFC1480}} continue to be relevant at the
 time of writing, including the geographic namespace structure and the roles of Delegated
 Managers, the document as a whole contains many operational and policy details that have
 been superseded.
