@@ -24,7 +24,7 @@ author:
     email: "jabley@cloudflare.com"
 
 normative:
-  RFC1480
+  RFC1480:
 
 informative:
 
