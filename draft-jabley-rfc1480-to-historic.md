@@ -7,12 +7,12 @@ docname: draft-jabley-rfc1480-to-historic-latest
 submissiontype: independent  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
-consensus: true
 v: 3
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - US
+ - TLD
+ - ccTLD
+ - DNS
 venue:
   github: "ableyjoe/draft-jabley-rfc1480-to-historic"
   latest: "https://ableyjoe.github.io/draft-jabley-rfc1480-to-historic/draft-jabley-rfc1480-to-historic.html"
